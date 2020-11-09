@@ -1,5 +1,11 @@
 # SteamUsernameChecker
   Returns availability of Steam usernames.
+
+# Installation
+```
+pip3 install -r requirements.txt
+``` 
+
 # Tool
 ![](https://i.ibb.co/dgFPpwk/example.png)
 

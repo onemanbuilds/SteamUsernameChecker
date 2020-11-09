@@ -123,3 +123,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+availables.txt
+SteamUsernameChecker/proxies.txt
+SteamUsernameChecker/SteamUsernameChecker.exe
+SteamUsernameChecker/useragents.txt
+SteamUsernameChecker/usernames.txt
+taken.txt
